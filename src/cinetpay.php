@@ -20,7 +20,7 @@
  * Class CinetPay
  * @category   CinetPay
  * @package    cinetpay
- * @copyright  Copyright (c) 20015-2016 CinetPay Inc. (https://www.cinetpay.com)
+ * @copyright  Copyright (c) 2015-2016 CinetPay Inc. (https://www.cinetpay.com)
  */
 class CinetPay
 {
